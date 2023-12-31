@@ -1,0 +1,3 @@
+[submodule "English_Dictionary_Api"]
+	path = English_Dictionary_Api
+	url = https://github.com/Sakthiadhavan/English_Dictionary_Api.git
