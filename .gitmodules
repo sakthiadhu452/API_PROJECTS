@@ -1,3 +1,6 @@
 [submodule "English_Dictionary_Api"]
 	path = English_Dictionary_Api
 	url = https://github.com/Sakthiadhavan/English_Dictionary_Api.git
+[submodule "DAD-S-JOKE-USING-API"]
+	path = DAD-S-JOKE-USING-API
+	url = https://github.com/Sakthiadhavan/DAD-S-JOKE-USING-API.git
